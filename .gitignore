@@ -1,5 +1,13 @@
 # Prerequisites
 *.d
+*.vcxproj
+*.filters
+*.user
+*.png
+*.xml
+/Debug
+/x64
+.idea/
 
 # Compiled Object files
 *.slo
